@@ -2759,8 +2759,8 @@
     line-height: 18.02px;
 }
 
-.tokenimics_img_head img {
-    width: 90%;
+.tokenimics_img_head  {
+    width: 100vw;
     display: block;
     margin: auto;
 }
