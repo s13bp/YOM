@@ -7729,6 +7729,12 @@
     .sligo {
         display: none;
     }
+
+    .pussy {
+        position: absolute;
+        top:0;
+        z-index: 100000;
+    }
     .main-buy-link {
         margin-right: auto;
         margin-left: auto;
